@@ -185,6 +185,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="HTMLPage.html" />
+    <Content Include="module\smsm\HtmlPage1.html" />
     <Content Include="module\smsm\smsm.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
