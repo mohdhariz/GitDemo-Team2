@@ -183,6 +183,9 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Logos\Screenshot 2024-08-22 152624.png" />
+    <Content Include="Images\Student-Profiles\Screenshot 2024-07-31 163311.png" />
+    <Content Include="Images\Student-Profiles\Screenshot 2024-07-31 163532.png" />
     <Content Include="imamiskam.html" />
     <Content Include="Modules\Kewangan1\Index.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
